@@ -1,0 +1,8 @@
+<svg id="addpost" xmlns="http://www.w3.org/2000/svg" width="253" height="253" viewBox="0 0 253 253">
+  <line id="Line_22" data-name="Line 22" y2="78.083" transform="translate(125.713 87.884)" fill="none" stroke="#000" stroke-width="5"/>
+  <line id="Line_23" data-name="Line 23" x2="81.206" transform="translate(85.11 126.925)" fill="none" stroke="#000" stroke-width="5"/>
+  <g id="Ellipse_3" data-name="Ellipse 3" fill="none" stroke="#000" stroke-width="5">
+    <circle cx="126.5" cy="126.5" r="126.5" stroke="none"/>
+    <circle cx="126.5" cy="126.5" r="124" fill="none"/>
+  </g>
+</svg>
